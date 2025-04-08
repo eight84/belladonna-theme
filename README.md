@@ -2,7 +2,8 @@
 
 A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired by the haunting beauty of the nightshade plant. Rich purples, glowing greens, soft neons, and dreamlike contrasts make this theme a perfect blend of cozy and powerful for late-night coding.
 
-<img width="1280" alt="belladonna-vscode-theme-slide-1" src="https://github.com/user-attachments/assets/3501adee-7aee-437e-9dd0-8a9318e2ce68" />
+
+![belladonna-vscode-theme-slide-1](https://github.com/user-attachments/assets/f8d5cf38-7d1f-444a-91ac-0d6540121475)
 
 
 ## ✨ Features
@@ -22,7 +23,8 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 Python Screenshot
 
-![python-code-vscode-belladonna-theme-screen-shot](https://github.com/user-attachments/assets/8c8c80e1-6ddb-4481-b798-d94f789462a1)
+
+![python-code-vscode-belladonna-theme-screen-shot](https://github.com/user-attachments/assets/1e83fc00-0289-4c2d-8038-33feb56d9745)
 
 
 
