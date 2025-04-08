@@ -14,9 +14,13 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ## 🌿 Screenshots
 
-| JavaScript / React                                                                                    | Python                                                                                                                                                                                                                                                                                                                                                                                               | Rust                                                                                                      |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| ![JS Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/js.png) | ![Python Screenshot](https://previews.dropbox.com/p/thumb/ACkn_UDCfHVaUN8kUWSH76KLCX0q7FxCP-Oh0vIUzuFdL9L7Y6OlX3N1bTyhl3mqd_hegJewJ-3bnZS1MAgIt4kpdwnYEmoCUM1gkCiMhApUddNmvxK10XQFjaagEDpmg2xZFMqOz8K0WwVRTwbOp43xp0_K6iAcj4GwZUueCyDTA1SAw8HeZAlBfm7MiviUygIQg0FRjzm4t0fhswxbnp7g2WK2c3OjlIbJalU_KhvbjNBvn4MI8nQgwPOpePzJh9edCWNNyxiY39t14igVEVXY2zS8OkNFURUafuLoOaGs6ohjfeLmcd03bDX5N5DNnp0/p.png) | ![Rust Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/rust.png) |
+| JavaScript / React | Python | Rust |
+|--------------------|--------|------|
+| ![JS Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/js.png) | ![Python Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/python.png) | ![Rust Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/rust.png) |
+
+
+[Python Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/python.png)
+
 
 ## 🌘 Installation
 
