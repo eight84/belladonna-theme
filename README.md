@@ -19,7 +19,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 | ![JS Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/js.png) | ![Python Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/python.png) | ![Rust Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/rust.png) |
 
 
-[Python Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/python.png)
+[Python Screenshot](https://www.dropbox.com/scl/fi/4aby6pnj1i9b5hech0b8i/python-code-vscode-belladonna-theme-screen-shot.png?rlkey=30vzi84tnjoqvf942ieorht9w&st=v9k9bvzt&dl=0)
 
 
 ## 🌘 Installation
