@@ -521,7 +521,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#e940bc"
       }
     },
     {
@@ -535,7 +535,7 @@
       "name": "css color standard name",
       "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
