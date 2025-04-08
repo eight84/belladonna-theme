@@ -19,7 +19,10 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 | ![JS Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/js.png) | ![Python Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/python.png) | ![Rust Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/rust.png) |
 
 
-[Python Screenshot](https://uc9bba6e89c22e90e05beda2f73b.previews.dropboxusercontent.com/p/thumb/ACnIsjhINaCQg9y0A-OG0K9WpE-THOkTdfiGIBgSxLr5VmfeEqCEi_7O-37ifTeI8gfRFkcfB_Pp-GRJHYe_zBQ5akQJn_Qm08e8kh5c766XZdc6STXc3-Y583CLaxrvhJ8Jnfc5w_OvEa1kvRiULYk4zh91wNW4lMrg2MpJbDxhWWmRM8aacZ8pzfy2nCSS0Hc0UfnrDSAZju96nJjP19wgKVxx7QUa-Mhsv-zbDW3GrzJ_ILo3VqssM-VioYJlBfjg6ViyM3rXYN3mjJSTiCpnU81scgqf1dnZTEwguYGsPMtCTEmA6Nc2j1xGgOmcdRRJO7Rv6BrehocEs43MIU37Kfp3z1CYpRwXTNWmEkylWeyYzvMRnZvKHF6uGWMxp4kLnXwqzWUmul82LDGW376U/p.png?)
+Python Screenshot
+
+![LDGW376U](https://github.com/user-attachments/assets/c7cd0236-bd1a-4720-bc00-b771ee7a0c36)
+
 
 
 ## 🌘 Installation
