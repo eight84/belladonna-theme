@@ -32,8 +32,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ##### Extras
 
-![colors-notifications](https://github.com/user-attachments/assets/d3ea00b1-b444-437f-ace7-671a6349afc1)
-
+![colors-notifications](https://github.com/user-attachments/assets/03ca5b11-534d-436b-9cff-0a38888ad7c7)
 
 ## 🌘 Installation
 
