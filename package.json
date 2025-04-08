@@ -1,0 +1,45 @@
+{
+  "name": "belladonna-theme",
+  "displayName": "Belladonna Theme",
+  "description": "Perfect for late-night coding sessions and developers who want their syntax with a side of mystique.",
+  "version": "0.0.1",
+  "publisher": "eight84",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eight84/belladona-theme"
+  },
+  "keywords": [
+    "vscode",
+    "purple theme",
+    "dark purple theme",
+    "belladonna theme",
+    "mystical theme",
+    "late-night coding",
+    "syntax highlighting",
+    "programming",
+    "code editor",
+    "visual studio code",
+    "theme",
+    "color-theme",
+    "dark-theme",
+    "belladonna",
+    "mystical",
+    "purple",
+    "eight84"
+  ],
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Belladonna Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Belladonna Theme-color-theme.json"
+      }
+    ]
+  }
+}
