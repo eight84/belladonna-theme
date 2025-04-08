@@ -14,19 +14,19 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 - Italics for comments and special emphasis tokens
 - Designed for high readability in both focused and ambient light environments
 
-## 🌿 Screenshots
+## :desktop_computer: Screenshots
 
-| JavaScript / React | Python | Rust |
-|--------------------|--------|------|
-| ![JS Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/js.png) | ![Python Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/python.png) | ![Rust Screenshot](https://raw.githubusercontent.com/your-username/belladonna-theme/main/images/rust.png) |
+##### HTML & CSS
 
 
-Python Screenshot
-
+##### Python
 
 ![python-code-vscode-belladonna-theme-screen-shot](https://github.com/user-attachments/assets/1e83fc00-0289-4c2d-8038-33feb56d9745)
 
+##### JavaScript
 
+
+##### GitLens 
 
 
 ## 🌘 Installation
