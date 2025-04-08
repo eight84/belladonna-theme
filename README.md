@@ -16,6 +16,10 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ## :desktop_computer: Screenshots
 
+#### Markdown
+
+
+
 ##### HTML & CSS
 
 
@@ -23,11 +27,19 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![python-code-vscode-belladonna-theme-screen-shot](https://github.com/user-attachments/assets/1e83fc00-0289-4c2d-8038-33feb56d9745)
 
+#### Highlight-Active
+
+
+![python-code-vscode-belladonna-theme-text-highlight](https://github.com/user-attachments/assets/50a2c17b-ab6f-44d4-af25-6a45174f3170)
+
+
 ##### JavaScript
 
 
 ##### GitLens 
 
+
+#### 
 
 ## 🌘 Installation
 
