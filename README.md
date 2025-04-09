@@ -8,7 +8,6 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 ## ✨ Features
 
 - Carefully curated color palette using custom tones from the [Dracula](https://draculatheme.com/) family and beyond
-- Fine-tuned support for JavaScript, TypeScript, Python, Rust, HTML, CSS, PHP, Markdown, JSON, and more
 - Support for editor brackets, operators, functions, methods, and punctuation styling
 - Italics for comments and unique emphasis tokens
 - Designed for high readability in both focused and ambient light environments
@@ -45,14 +44,11 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and choose `Preferences: Color Theme`
 4. Select **Belladonna**
 
-## 🖼️ Icon + Branding
+## 💡 Fonts
 
-This theme uses a custom logo inspired by the Belladonna plant and dark aesthetic. You can find it in the `/images` folder or in the VS Code Marketplace listing.
+- I am using Operator Mono
+- Also works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/) 
 
-## 💡 Tips
-
-- Works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-- Pair it with a subtle background image or dark wallpaper for max cozy
 
 ## 🌒 Inspired By
 
@@ -66,14 +62,18 @@ Special thanks to those themes and their creators for setting the bar high ✨
 
 ## 🤝 Feedback & Contributions
 
-Spotted something that could be better? Want to contribute tweaks or new language support?
+Spotted something that could be better? This is my first theme, let me know if youu have ideas on improvement! 
 
-- Open an issue or PR at: [GitHub Repository](https://github.com/your-username/belladonna-theme)
-- Or leave a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
+- Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
+
+
+⭐⭐⭐⭐⭐
+
+Enjoy this theme? Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
 ## 📄 License
 
-MIT © 2025 eight84
+[MIT License](LICENSE) | © 2025 eight84
 
 ---
 
