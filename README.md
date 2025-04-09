@@ -77,9 +77,9 @@ Spotted something that could be better? This is my first theme, let me know if y
 
 - Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
   
-___
+__
 ### Help me out! ⭐ ⭐ ⭐ ⭐ ⭐
-___
+__
 
 ### Enjoy this theme? 
 
@@ -87,10 +87,10 @@ Please consider leaving a review on the [Marketplace listing](https://marketplac
 
 
 #### 📄 License
-___
+__
 
 [MIT License](LICENSE) | © 2025 eight84
 
----
+-
 
 Belladonna: beautiful, deadly, and perfectly dark 🌿
