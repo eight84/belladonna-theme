@@ -1,7 +1,5 @@
 # ⋆˙⟡ Belladonna Theme for VSCode. ⋆˙⟡
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-
 A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired by the haunting beauty of the nightshade plant. Rich purples, glowing greens, soft neons, and dreamlike contrasts make this theme a perfect blend of cozy and powerful for late-night coding.
 
 ![belladonna-vscode-theme-slide-1](https://github.com/user-attachments/assets/30352e3e-9665-4345-9562-8d10ba723727)
@@ -13,6 +11,8 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 - Support for editor brackets, operators, functions, methods, and punctuation styling
 - Italics for comments and unique emphasis tokens
 - Designed for high readability in both focused and ambient light environments
+
+ <a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
 
 ### 📺 Screenshots
 
