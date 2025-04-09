@@ -343,7 +343,7 @@
       "name": "regexp operator.quantifier",
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -434,7 +434,7 @@
       "name": "math property js/ts",
       "scope": "support.constant.property.math",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -584,7 +584,7 @@
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -611,7 +611,7 @@
       "name": "js/ts support.variable.property.process",
       "scope": "support.variable.property.process",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
