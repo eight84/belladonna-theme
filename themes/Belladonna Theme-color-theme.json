@@ -273,7 +273,7 @@
       "name": "haskell storage type",
       "scope": "storage.type.haskell",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#81caff"
       }
     },
     {
@@ -1026,7 +1026,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#71ffb8"
       }
     },
     {
@@ -1133,7 +1133,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#d8d6ff"
       }
     },
     {
@@ -1382,7 +1382,7 @@
       "name": "support php constants",
       "scope": "support.constant.core.rust",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#faffa4"
       }
     },
     {
@@ -1672,7 +1672,7 @@
       "name": "elm constant",
       "scope": ["support.constant.elm"],
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#8be8ff"
       }
     },
     {
