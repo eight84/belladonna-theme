@@ -77,12 +77,12 @@ Spotted something that could be better? This is my first theme, let me know if y
 
 - Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
 
-## Help me out! ⭐ ⭐ ⭐ ⭐ ⭐
+### Help me out! ⭐ ⭐ ⭐ ⭐ ⭐
 
 Enjoy this theme? Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
 
-## 📄 License
+#### 📄 License
 
 [MIT License](LICENSE) | © 2025 eight84
 
