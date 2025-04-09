@@ -2078,6 +2078,36 @@
       "settings": {
         "foreground": "#e8e2f9"
       }
+    },
+    {
+      "name": "JSX/TSX Punctuation",
+      "scope": [
+        "punctuation.section.group",
+        "meta.brace.round",
+        "punctuation.section.embedded",
+        "meta.brace.curly"
+      ],
+      "settings": {
+        "foreground": "#ffffff" // Change to your desired color
+      }
+    },
+    {
+      "scope": "support.type.property-name.css",
+      "settings": {
+        "foreground": "#f3ffca"
+      }
+    },
+    {
+      "scope": "constant.numeric.css",
+      "settings": {
+        "foreground": "#c1ff95" // Use any color you prefer for numbers
+      }
+    },
+    {
+      "scope": "meta.property-value.css",
+      "settings": {
+        "foreground": "#84d6ff" // Use any color you prefer for values like "light" and "dark"
+      }
     }
   ]
 }
