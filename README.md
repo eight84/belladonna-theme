@@ -91,4 +91,4 @@ ____
 
 Belladonna: beautiful, deadly, and perfectly dark 🌿
 
-<a href="https://www.buymeacoffee.com/eight84"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🍘&slug=devvie&button_colour=FFDD00&font_colour=000000&font_family=Intere&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="20px"></a>
