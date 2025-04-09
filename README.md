@@ -76,13 +76,18 @@ Special thanks to those themes and their creators for setting the bar high ✨
 Spotted something that could be better? This is my first theme, let me know if youu have ideas on improvement! 
 
 - Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
-
+  
+___
 ### Help me out! ⭐ ⭐ ⭐ ⭐ ⭐
+___
 
-Enjoy this theme? Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
+### Enjoy this theme? 
+
+Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
 
 #### 📄 License
+___
 
 [MIT License](LICENSE) | © 2025 eight84
 
