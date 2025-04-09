@@ -71,25 +71,19 @@ Belladonna was inspired by themes like:
 
 Special thanks to those themes and their creators for setting the bar high ✨
 
-## 🤝 Feedback & Contributions
+## ✨ Feedback & Contributions 
 
-Spotted something that could be better? This is my first theme, let me know if youu have ideas on improvement! 
 
-- Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
-  
-## 🤝 Feedback & Contributions ⭐ ⭐ ⭐ ⭐ ⭐
-
-### Help me out! ⭐ ⭐ ⭐ ⭐ ⭐
----
-
-### Enjoy this theme? 
+### Enjoy this theme? ⭐ ⭐ ⭐ ⭐ ⭐
 
 Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
-____
+
+Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement! 
+
+- Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
 
 #### 📄 License
-____
 
 [MIT License](LICENSE) | © 2025 eight84
 
