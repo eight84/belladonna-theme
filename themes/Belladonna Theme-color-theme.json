@@ -2017,6 +2017,57 @@
       }
     },
     {
+      "name": "JSX/TSX Attribute Names",
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.jsx",
+        "support.attribute" // sometimes used in JSX/TSX files
+      ],
+      "settings": {
+        "foreground": "#975bff" // change this hex to your desired color
+      }
+    },
+    {
+      "name": "JSX/TSX Attribute Names",
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.jsx",
+        "support.attribute" // sometimes used in JSX/TSX files
+      ],
+      "settings": {
+        "foreground": "#61f6ff" // change this hex to your desired color
+      }
+    },
+    {
+      "name": "JSX Attribute Value",
+      "scope": "string.quoted.double.jsx",
+      "settings": {
+        "foreground": "#ebedff" // change to your desired color
+      }
+    },
+    {
+      "name": "JavaScript Keyword Control",
+      "scope": "keyword.control",
+      "settings": {
+        "foreground": "#FF7296" // Customize this color as desired
+      }
+    },
+    {
+      "name": "JavaScript Storage Type",
+      "scope": "storage.type",
+      "settings": {
+        // "foreground": "#569CD6" //
+        "foreground": "#84d6ff"
+      }
+    },
+    {
+      "name": "JSX attribute equals sign",
+      "scope": "punctuation.separator.key-value.jsx",
+      "settings": {
+        "foreground": "#ffffff" // Set your desired color
+      }
+    },
+    {
       "name": "Fallback punctuation fix",
       "scope": [
         "punctuation",
