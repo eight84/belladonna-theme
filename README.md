@@ -4,7 +4,6 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![belladonna-vscode-theme-slide-markdown-1](https://github.com/user-attachments/assets/feec3a59-4efb-4e30-a68e-8ca460eefda7)
 
-
 ## ✨ Features
 
 - Carefully curated color palette using custom tones from the [Dracula](https://draculatheme.com/) family and beyond
@@ -12,15 +11,13 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 - Italics for comments and unique emphasis tokens
 - Designed for high readability in both focused and ambient light environments
 
- <a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
+<a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
 
 ### 📺 Screenshots
 
 ![gitlens](https://github.com/user-attachments/assets/debb62ff-5783-4a67-97b6-b4d6b61ad8c6)
 
-
 ![eextraextras](https://github.com/user-attachments/assets/ccf38f0e-2e22-4750-90fe-0ee6e87777e1)
-
 
 #### Markdown
 
@@ -31,7 +28,6 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 ![html](https://github.com/user-attachments/assets/a873b48d-ad98-4cba-9db2-c6215363b188)
 
 ![css](https://github.com/user-attachments/assets/53befa11-db96-46d8-96aa-b567bf532115)
-
 
 ##### JavaScript
 
@@ -45,11 +41,6 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![python-code-vscode-belladonna-theme-text-highlight](https://github.com/user-attachments/assets/50a2c17b-ab6f-44d4-af25-6a45174f3170)
 
-
-
-
-
-
 ## 🌘 Installation
 
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
@@ -60,8 +51,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 ## 💡 Fonts
 
 - I am using Operator Mono
-- Also works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/) 
-
+- Also works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## 🌒 Inspired By
 
@@ -73,15 +63,13 @@ Belladonna was inspired by themes like:
 
 Special thanks to those themes and their creators for setting the bar high ✨
 
-## ✨ Feedback & Contributions 
-
+## ✨ Feedback & Contributions
 
 ### Enjoy this theme? ⭐ ⭐ ⭐ ⭐ ⭐
 
 Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
-
-Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement! 
+Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement!
 
 - Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
 
@@ -89,7 +77,7 @@ Have you noticed anything that could be better? This is my first theme. Let me k
 
 [MIT License](LICENSE) | © 2025 eight84
 
-____
+---
 
 Belladonna: beautiful, deadly, and perfectly dark 🌿
 
