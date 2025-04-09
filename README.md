@@ -10,10 +10,10 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 - Carefully curated color palette using custom tones from the [Dracula](https://draculatheme.com/) family and beyond
 - Fine-tuned support for JavaScript, TypeScript, Python, Rust, HTML, CSS, PHP, Markdown, JSON, and more
 - Support for editor brackets, operators, functions, methods, and punctuation styling
-- Italics for comments and special emphasis tokens
+- Italics for comments and unique emphasis tokens
 - Designed for high readability in both focused and ambient light environments
 
-### :desktop_computer: Screenshots
+### 📺 Screenshots
 
 
 ![colors-notifications](https://github.com/user-attachments/assets/1256653b-8924-4305-800c-bcd6f150d224)
