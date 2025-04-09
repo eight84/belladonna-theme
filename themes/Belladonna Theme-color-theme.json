@@ -900,7 +900,7 @@
       "name": "Control Elements",
       "scope": "control.elements, keyword.operator.less",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -963,7 +963,7 @@
       "name": "Support type",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -998,21 +998,21 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#c62a73"
       }
     },
     {
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -1042,7 +1042,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "bold", // made this bold
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -1077,7 +1077,7 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -1389,7 +1389,7 @@
       "name": "support php constants",
       "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -1480,14 +1480,14 @@
       "name": "rgb value",
       "scope": "inline-color-decoration rgb-value",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
       "name": "rgb value less",
       "scope": "less rgb-value",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
@@ -1534,7 +1534,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#ff7171"
       }
     },
     {
@@ -1885,7 +1885,7 @@
       "name": "wikiword",
       "scope": ["wikiword.xi"],
       "settings": {
-        "foreground": "#ffa171"
+        "foreground": "#77CBFF"
       }
     },
     {
