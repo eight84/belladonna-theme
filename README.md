@@ -77,6 +77,8 @@ Spotted something that could be better? This is my first theme, let me know if y
 
 - Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
   
+## 🤝 Feedback & Contributions ⭐ ⭐ ⭐ ⭐ ⭐
+
 ### Help me out! ⭐ ⭐ ⭐ ⭐ ⭐
 ---
 
