@@ -65,10 +65,9 @@ Belladonna was inspired by themes like:
 
 ### Enjoy this theme?
 
-`Please consider leaving a review on the Marketplace listing!`
-😊
+Please consider leaving a review on the Marketplace listing! 😊
 
-<li><a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a></li>
+<a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a>
 
 
 ### Feedback & Contributions
