@@ -43,11 +43,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![python-code-vscode-belladonna-theme-text-highlight](https://github.com/user-attachments/assets/50a2c17b-ab6f-44d4-af25-6a45174f3170)
 
-##  
-<br>
-
-### Installation
-##
+## Installation
 
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 2. Click **Install**
