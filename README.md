@@ -57,10 +57,9 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 Belladonna was inspired by themes like:
 
-⇢ <li><a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>🧛🏻‍♂️ Dracula Official</code></a></li>
-
-⇢ [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
-⇢ [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+<li><a href="https://draculatheme.com/"><code>🧛🏻‍♂️ Dracula Official</code></a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode"><code>🎧 SynthWave '84</code></a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl"><code>🦉 Night Owl</code></a></li>
 
 `Special thanks` to those themes and their creators for setting the bar high 🚀
 
