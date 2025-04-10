@@ -4,7 +4,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![belladonna-vscode-theme-slide-markdown-1](https://github.com/user-attachments/assets/feec3a59-4efb-4e30-a68e-8ca460eefda7)
 
-## ✨ Features
+## 🔆 Features 🔆
 
 - Carefully curated color palette using custom tones from the [Dracula](https://draculatheme.com/) family and beyond
 - Support for editor brackets, operators, functions, methods, and punctuation styling
@@ -13,7 +13,8 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 <a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
 
-#### 📺 Screenshots
+##
+#### Screenshots
 
 ![gitlens](https://github.com/user-attachments/assets/debb62ff-5783-4a67-97b6-b4d6b61ad8c6)
 
@@ -42,6 +43,8 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 ![python-code-vscode-belladonna-theme-text-highlight](https://github.com/user-attachments/assets/50a2c17b-ab6f-44d4-af25-6a45174f3170)
 
 ##  
+<br>
+
 ### Installation
 ##
 
