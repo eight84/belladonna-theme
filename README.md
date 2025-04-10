@@ -6,9 +6,9 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ## 🔆 Features 
 
-↪ Support for editor brackets, operators, functions, methods, and punctuation styling
-↪ Italics for comments and unique emphasis tokens 
-↪ Designed for high readability in both focused and ambient light environments
+<li><code>Support for editor brackets, operators, functions, methods, and punctuation styling</code></li>
+<li><code>Italics for comments and unique emphasis tokens </code></li>
+<li><code>Designed for high readability in both focused and ambient light environments</code></li>
 
 ##
 
