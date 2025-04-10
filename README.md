@@ -68,8 +68,7 @@ Belladonna was inspired by themes like:
 `Please consider leaving a review on the Marketplace listing!`
 😊
 
-
-[⭐ ⭐ ⭐ ⭐ ⭐ Leave a review here](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
+<li><a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a></li>
 
 
 ### Feedback & Contributions
