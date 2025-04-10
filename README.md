@@ -69,13 +69,11 @@ Please consider leaving a review on the Marketplace listing! 😊
 
 <a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a>
 
-
 ### Feedback & Contributions
 
 Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement!
 
-`Open an issue: ↪` [GitHub Repository](https://github.com/eight84/belladonna-theme)
-</br>
+<a href="https://github.com/eight84/belladonna-theme/issues"><code> ↪ Open an issue </code></a>
 
 ##### License
 
