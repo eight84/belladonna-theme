@@ -41,14 +41,15 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![python-code-vscode-belladonna-theme-text-highlight](https://github.com/user-attachments/assets/50a2c17b-ab6f-44d4-af25-6a45174f3170)
 
-## 🌘 Installation
+## 
+## Installation
 
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 2. Click **Install**
 3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and choose `Preferences: Color Theme`
 4. Select **Belladonna**
 
-### Fonts
+## Fonts
 
 - I am using Operator Mono
 - Also works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
