@@ -57,23 +57,31 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 Belladonna was inspired by themes like:
 
-- [Dracula Official](https://draculatheme.com/)
-- [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
-- [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+⇢ [Dracula Official](https://draculatheme.com/)
+⇢ [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+⇢ [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 
-Special thanks to those themes and their creators for setting the bar high ✨
+`Special thanks` to those themes and their creators for setting the bar high 🚀
 
-## ✨ Feedback & Contributions
+### ✨ Enjoy this theme? ✨
 
-### Enjoy this theme? ⭐ ⭐ ⭐ ⭐ ⭐
+```
 
-Please consider leaving a review on the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
+⭐ ⭐ ⭐ ⭐ ⭐
+Please consider leaving a review on the Marketplace listing!
+😊
+```
+
+### [↪ Leave a review here 🗣](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
+
+### 🙌 Feedback & Contributions
 
 Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement!
 
-- Open an issue: [GitHub Repository](https://github.com/eight84/belladonna-theme)
+`Open an issue: ↪` [GitHub Repository](https://github.com/eight84/belladonna-theme)
+</br>
 
-#### 📄 License
+##### 📄 License
 
 [MIT License](LICENSE) | © 2025 eight84
 
