@@ -6,10 +6,10 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ## 🔆 Features 
 
-- Carefully curated color palette using custom tones from the <a href="https://draculatheme.com/"><code>🧛🏻‍♂️ Dracula Official</code></a> family and beyond
 - Support for editor brackets, operators, functions, methods, and punctuation styling
-- Italics for comments and unique emphasis tokens
+- Italics for comments and unique emphasis tokens 
 - Designed for high readability in both focused and ambient light environments
+- Support for additional editors and IDEs coming soon! 👀
 
 <a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
 
