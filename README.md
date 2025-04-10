@@ -60,12 +60,13 @@ Belladonna was inspired by themes like:
 <li><a href="https://draculatheme.com/"><code>🧛🏻‍♂️ Dracula Official</code></a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode"><code>🎧 SynthWave '84</code></a></li>
 <li><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl"><code>🦉 Night Owl</code></a></li>
+<be>
 
 `Special thanks` to those themes and their creators for setting the bar high 🚀
 
 ### Enjoy this theme?
 
-Please consider leaving a review on the Marketplace listing! 😊
+Please consider <mark>leaving a review</mark> on the Marketplace listing! 😊
 
 <a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a>
 
