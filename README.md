@@ -37,7 +37,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ![python-code-vscode-belladonna-theme-screen-shot](https://github.com/user-attachments/assets/1e83fc00-0289-4c2d-8038-33feb56d9745)
 
-#### Code Highlight
+##### Code Highlight
 
 ![python-code-vscode-belladonna-theme-text-highlight](https://github.com/user-attachments/assets/50a2c17b-ab6f-44d4-af25-6a45174f3170)
 
@@ -65,23 +65,26 @@ Belladonna was inspired by themes like:
 
 `Special thanks` to those themes and their creators for setting the bar high 🚀
 
+##
 ### Enjoy this theme?
 
 Please consider <mark>leaving a review</mark> on the Marketplace listing! 😊
 
 <a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a>
 
+##
 ### Feedback & Contributions
 
 Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement!
 
 <a href="https://github.com/eight84/belladonna-theme/issues"><code> ↪ Open an issue </code></a>
 
+##
 ##### License
 
 [MIT License](LICENSE) | © 2025 eight84
 
----
+##
 
 Belladonna: beautiful, deadly, and perfectly dark 🌿
 
