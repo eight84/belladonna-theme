@@ -63,26 +63,25 @@ Belladonna was inspired by themes like:
 
 `Special thanks` to those themes and their creators for setting the bar high 🚀
 
-### ✨ Enjoy this theme? ✨
+### Enjoy this theme?
 
 <img src="https://github.com/hussainweb/hussainweb/raw/main/icons/vscode.png" style="max-width: 100%;">
 
-⭐ ⭐ ⭐ ⭐ ⭐
 `Please consider leaving a review on the Marketplace listing!`
 😊
 
 
-### [↪ Leave a review here 🗣](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
+### [⭐ ⭐ ⭐ ⭐ ⭐ Leave a review here](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
 
-### 🙌 Feedback & Contributions
+### Feedback & Contributions
 
 Have you noticed anything that could be better? This is my first theme. Let me know if you have ideas for improvement!
 
 `Open an issue: ↪` [GitHub Repository](https://github.com/eight84/belladonna-theme)
 </br>
 
-##### 📄 License
+##### License
 
 [MIT License](LICENSE) | © 2025 eight84
 
