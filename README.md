@@ -65,7 +65,7 @@ Belladonna was inspired by themes like:
 
 ### ✨ Enjoy this theme? ✨
 
-
+<img src="https://github.com/hussainweb/hussainweb/raw/main/icons/vscode.png" style="max-width: 100%;">
 
 ⭐ ⭐ ⭐ ⭐ ⭐
 `Please consider leaving a review on the Marketplace listing!`
@@ -74,7 +74,6 @@ Belladonna was inspired by themes like:
 
 ### [↪ Leave a review here 🗣](https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme)
 
-<img src="https://github.com/hussainweb/hussainweb/raw/main/icons/vscode.png" style="max-width: 100%;">
 
 ### 🙌 Feedback & Contributions
 
