@@ -6,13 +6,13 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 ## 🔆 Features 
 
-- Support for editor brackets, operators, functions, methods, and punctuation styling
-- Italics for comments and unique emphasis tokens 
-- Designed for high readability in both focused and ambient light environments
+↪ Support for editor brackets, operators, functions, methods, and punctuation styling
+↪ Italics for comments and unique emphasis tokens 
+↪ Designed for high readability in both focused and ambient light environments
 
 ##
 
-👀 Support for additional editors and IDEs is coming soon! 
+<span>👀 Support for additional editors and IDEs is coming soon!</span>
 
 ##
 #### Screenshots
@@ -73,8 +73,8 @@ Belladonna was inspired by themes like:
 ##
 ### Enjoy this theme?
 
-<a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a>
-<a href="https://www.buymeacoffee.com/eight84"><code>☕️ Buy me a coffee</code></a>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=eight84.belladonna-theme"><code>⭐ Leave a review </code></a></li>
+<li><a href="https://www.buymeacoffee.com/eight84"><code>☕️ Buy me a coffee</code></a></li>
 
 ##
 ### Feedback & Contributions
