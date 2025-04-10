@@ -9,7 +9,10 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 - Support for editor brackets, operators, functions, methods, and punctuation styling
 - Italics for comments and unique emphasis tokens 
 - Designed for high readability in both focused and ambient light environments
-- Support for additional editors and IDEs coming soon! 👀
+
+👀 Support for additional editors and IDEs is coming soon! 
+
+<a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
 
 ##
 #### Screenshots
