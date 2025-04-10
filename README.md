@@ -13,7 +13,7 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 
 <a href="https://www.buymeacoffee.com/eight84"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="35px"></a>
 
-### 📺 Screenshots
+#### 📺 Screenshots
 
 ![gitlens](https://github.com/user-attachments/assets/debb62ff-5783-4a67-97b6-b4d6b61ad8c6)
 
@@ -48,12 +48,12 @@ A moody, enchanting dark theme for Visual Studio Code — Belladonna is inspired
 3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and choose `Preferences: Color Theme`
 4. Select **Belladonna**
 
-## 💡 Fonts
+### Fonts
 
 - I am using Operator Mono
 - Also works great with [Fira Code](https://github.com/tonsky/FiraCode) or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-## 🌒 Inspired By
+## Inspired By
 
 Belladonna was inspired by themes like:
 
